@@ -1,3 +1,3 @@
 # AOS_TP
 
-.Net 4.7.2
+java JDK 21
