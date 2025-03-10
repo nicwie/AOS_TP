@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AOS_TP
 {
-    internal class choose_two
+    internal class PairingTree
     {
     }
 }

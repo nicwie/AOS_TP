@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AOS_TP
 {
-    internal class node
+    internal class Node
     {
     }
 }

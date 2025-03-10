@@ -81,11 +81,12 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="att.cs" />
-    <Compile Include="choose_two.cs" />
-    <Compile Include="def.cs" />
-    <Compile Include="match.cs" />
-    <Compile Include="node.cs" />
+    <Compile Include="Att.cs" />
+    <Compile Include="ChooseTwo.cs" />
+    <Compile Include="Def.cs" />
+    <Compile Include="Match.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="PairingTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
